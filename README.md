@@ -1,1 +1,3 @@
 # HealthCare-Analytics--PatientWait-List-
+
+https://app.powerbi.com/view?r=eyJrIjoiZWEzNDAwYmEtMTE1Ny00OGU3LTliNWMtZjY5MGRiOTMyNWE5IiwidCI6ImZjNDJkYTYzLWE5OTAtNDViYy04MTQzLTMyMDE2NTE1MGQzYyJ9
